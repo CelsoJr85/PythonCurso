@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "celso",
+    "sobrenome": "custodio junior",
+    "idade": 37,
+    "endereco": "estevão fernandes",
+    "telefone": "(11)9999-9999",
+    "email": "celso@mss.com.br"
+  },
+  {
+    "nome": "fernanda",
+    "sobrenome": "pereira custodio",
+    "idade": 46,
+    "endereco": "estevão fernandes",
+    "telefone": "(11)8888-8888",
+    "email": "fefe@mss.com.br"
+  },
+  {
+    "nome": "isabel",
+    "sobrenome": "custodio",
+    "idade": 8,
+    "endereco": "macuco",
+    "telefone": "(11)7777-7777",
+    "email": "isabel@mss.com.br"
+  }
+]
